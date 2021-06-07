@@ -19,3 +19,17 @@ The ```ensmallen``` library boasts an extensive set of optimizers that has focus
 
 Building upon this foundation, the proposal aims to add cutting edge MOO optimizers, expand the test framework, add type traits, rework callbacks, write documentations to make the library flexible for MultiObjective use cases. The end product would integrate these features seamlessly into the codebase, to work in coherence with the existing interface.
 
+## Pull Requests
+
+### I. Pre-GSoC
+
+* [Improvise Non Dominated Sorting Algorithm - II (NSGA-II)](https://github.com/mlpack/ensmallen/pull/263).
+* [Added Indicators to assess MOO Optimizer performance](https://github.com/mlpack/ensmallen/pull/285).
+* [Expand CheckArbitraryFunctionTypeAPI to work for MOO](https://github.com/mlpack/ensmallen/pull/283).
+* [ZDT Test Suite](https://github.com/mlpack/ensmallen/pull/273).
+
+### II. Community Bonding
+
+ * [Added utility to generate stocks data](https://github.com/mlpack/examples/pull/152).
+ * [Add Portfolio Optimization notebook](https://github.com/mlpack/examples/pull/155).
+ * [Expand callbacks for MOO Case](https://github.com/mlpack/ensmallen/pull/289).
