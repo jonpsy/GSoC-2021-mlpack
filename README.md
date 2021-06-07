@@ -9,7 +9,7 @@ My proposal for **A Framework for Multiobjective optimizers** was selected under
 
 Honoring the rites of mlpack, I will post my progress, results, visualizations over the course of my contribution.
 
-![](https://docs.google.com/uc?export=download&id=1SnFjIWwlJ5bZrZECRmcFkDqzShvMgEPN)
+![](https://docs.google.com/uc?export=download&id=1OHRslfH6qnT-Sqi5-PWFtEeihef-CeGH)
 
 ## Motivation
 
@@ -33,3 +33,8 @@ Building upon this foundation, the proposal aims to add cutting edge MOO optimiz
  * [Added utility to generate stocks data](https://github.com/mlpack/examples/pull/152).
  * [Add Portfolio Optimization notebook](https://github.com/mlpack/examples/pull/155).
  * [Expand callbacks for MOO Case](https://github.com/mlpack/ensmallen/pull/289).
+
+
+ ## A note of thanks
+
+ I would like to thank these people without whom, this project wouldn't have been possible. Sheikh Mohammad Fauz  ([@FieryBlade-313](https://github.com/FieryBlade-313)) for the gif and Sagar Sehgal ([@Sagar](https://github.com/thesagarsehgal)) for the guidance.
