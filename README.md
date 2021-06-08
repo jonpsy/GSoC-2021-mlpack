@@ -1,5 +1,3 @@
-# A Framework for Multiobjective Optimizers
-
 <p align="center">
 <a href="https://summerofcode.withgoogle.com/"><img style="padding: 20px;" alt="drawing" src="GSoC_logo.png" height="200"></a>
 <a href="https://www.mlpack.org/"><img style="padding: 20px;" alt="drawing" src="mlpack.png" height="200"></a>
@@ -8,8 +6,10 @@
 My proposal for **A Framework for Multiobjective optimizers** was selected under **Google Summer of Code 2021**. I'll work with the [mlpack](https://mlpack.org/) organization under the mentorship of **Marcus Edel** ([@zoq](https://github.com/zoq)), **Sayan Goswami** ([@say4n](https://github.com/say4n)), **James Balamuta** ([@coatless](https://github.com/coatless)).
 
 Honoring the rites of mlpack, I will post my progress, results, visualizations over the course of my contribution.
-
-![](https://docs.google.com/uc?export=download&id=1OHRslfH6qnT-Sqi5-PWFtEeihef-CeGH)
+<figure>
+  <img src="https://docs.google.com/uc?export=download&id=1OHRslfH6qnT-Sqi5-PWFtEeihef-CeGH" width="400" height="400">
+  <figcaption align="centre">Fig. 1: - The truncate operator of SPEA-II </figcaption>
+</figure>
 
 ## Motivation
 
