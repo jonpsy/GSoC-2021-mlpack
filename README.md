@@ -42,9 +42,9 @@ Building upon this foundation, the proposal aims to add cutting edge MOO optimiz
 ### III. Week 1 and 2
 
  * [Implement MOEA/D-DE](https://github.com/mlpack/ensmallen/pull/269).
- * [Introduce Policy Methods for MOEA/D-DE](https://github.com/mlpack/examples/pull/293).
- * [Add Das-Dennis weight initialization method](https://github.com/mlpack/examples/pull/295).
- * [Add Dirichlet Weight Initialization](https://github.com/mlpack/examples/pull/296).
+ * [Introduce Policy Methods for MOEA/D-DE](https://github.com/mlpack/ensmallen/pull/293).
+ * [Add Das-Dennis weight initialization method](https://github.com/mlpack/ensmallen/pull/295).
+ * [Add Dirichlet Weight Initialization](https://github.com/mlpack/ensmallen/pull/296).
 
 
  ## A note of thanks
