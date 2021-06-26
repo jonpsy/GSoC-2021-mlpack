@@ -18,11 +18,11 @@ Honoring the rites of mlpack, I will post my progress, results, visualizations o
 
 <figure>
 <a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/moead-front.jpg" height="500"></a>
-<figcaption align="centre">Fig. 3: - Tracking the evolution process of MOEAD. </figcaption>
+<figcaption align="centre">Fig. 3: - Tracking Evolution of MOEAD in Portfolio Optimization Problem. </figcaption>
 </figure>
 
 <figure>
-<a href="https://github.com/mlpack/ensmallen/issues/294"><img style="padding: 5px;" alt="drawing" src="pics/moead-front.jpg" height="500"></a>
+<a href="https://github.com/mlpack/ensmallen/issues/294"><img style="padding: 5px;" alt="drawing" src="pics/speed.png" height="500"></a>
 <figcaption align="centre">Fig. 4: - Comparing MOEAD with NSGA-II. </figcaption>
 </figure>
 
