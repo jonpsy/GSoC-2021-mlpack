@@ -6,25 +6,16 @@
 My proposal for **A Framework for Multiobjective optimizers** was selected under **Google Summer of Code 2021**. I'll work with the [mlpack](https://mlpack.org/) organization under the mentorship of **Marcus Edel** ([@zoq](https://github.com/zoq)), **Sayan Goswami** ([@say4n](https://github.com/say4n)), **James Balamuta** ([@coatless](https://github.com/coatless)).
 
 Honoring the rites of mlpack, I will post my progress, results, visualizations over the course of my contribution.
-<figure>
-  <img src="https://docs.google.com/uc?export=download&id=1OHRslfH6qnT-Sqi5-PWFtEeihef-CeGH" width="400" height="400">
-  <figcaption align="centre">Fig. 1: - The truncate operator of SPEA-II </figcaption>
-</figure>
 
-<figure>
+<img src="https://docs.google.com/uc?export=download&id=1OHRslfH6qnT-Sqi5-PWFtEeihef-CeGH" width="400" height="400">
+
 <a href="https://github.com/mlpack/ensmallen/pull/293"><img style="padding: 5px;" alt="drawing" src="pics/PBI.jpeg" height="600"></a>
-<figcaption align="centre">Fig. 2: - PBI decomposition for minimization of all objectives. </figcaption>
-</figure>
 
-<figure>
 <a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/moead-front.jpg" height="500"></a>
-<figcaption align="centre">Fig. 3: - Tracking Evolution of MOEAD in Portfolio Optimization Problem. </figcaption>
-</figure>
 
-<figure>
+<a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/moead-evolution.gif" height="500"></a>
+
 <a href="https://github.com/mlpack/ensmallen/issues/294"><img style="padding: 5px;" alt="drawing" src="pics/speed.png" height="500"></a>
-<figcaption align="centre">Fig. 4: - Comparing MOEAD with NSGA-II. </figcaption>
-</figure>
 
 
 ## Motivation
