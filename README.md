@@ -11,9 +11,20 @@ Honoring the rites of mlpack, I will post my progress, results, visualizations o
   <figcaption align="centre">Fig. 1: - The truncate operator of SPEA-II </figcaption>
 </figure>
 
+<figure>
 <a href="https://github.com/mlpack/ensmallen/pull/293"><img style="padding: 5px;" alt="drawing" src="pics/PBI.jpeg" height="600"></a>
+<figcaption align="centre">Fig. 2: - PBI decomposition for minimization of all objectives. </figcaption>
+</figure>
 
-<a href="https://github.com/mlpack/ensmallen/pull/295"><img style="padding: 5px;" alt="drawing" src="pics/das-dennis.png" height="300"></a>
+<figure>
+<a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/moead-front.jpg" height="500"></a>
+<figcaption align="centre">Fig. 3: - Tracking the evolution process of MOEAD. </figcaption>
+</figure>
+
+<figure>
+<a href="https://github.com/mlpack/ensmallen/issues/294"><img style="padding: 5px;" alt="drawing" src="pics/moead-front.jpg" height="500"></a>
+<figcaption align="centre">Fig. 4: - Comparing MOEAD with NSGA-II. </figcaption>
+</figure>
 
 
 ## Motivation
@@ -46,6 +57,10 @@ Building upon this foundation, the proposal aims to add cutting edge MOO optimiz
  * [Add Das-Dennis weight initialization method](https://github.com/mlpack/ensmallen/pull/295).
  * [Add Dirichlet Weight Initialization](https://github.com/mlpack/ensmallen/pull/296).
 
+### III. Week 3 and 4
+
+ * [Remove NSGA-II use MOEAD in Portfolio](https://github.com/mlpack/examples/pull/160).
+ * [Battle of the Optimizers](https://github.com/mlpack/ensmallen/issues/294).
 
  ## A note of thanks
 
