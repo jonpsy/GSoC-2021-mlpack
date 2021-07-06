@@ -13,7 +13,7 @@ Honoring the rites of mlpack, I will post my progress, results, visualizations o
 
 <a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/moead-front.jpg" height="500"></a>
 
-<a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/moead-evolution.gif" height="500"></a>
+<a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/fronts.gif" height="500"></a>
 
 <a href="https://github.com/mlpack/ensmallen/issues/294"><img style="padding: 5px;" alt="drawing" src="pics/speed.png" height="500"></a>
 
