@@ -50,8 +50,12 @@ Building upon this foundation, the proposal aims to add cutting edge MOO optimiz
 
 ### III. Week 3 and 4
 
- * [Remove NSGA-II use MOEAD in Portfolio](https://github.com/mlpack/examples/pull/160).
+ * [Refine Portfolio Notebook.](https://github.com/mlpack/examples/pull/160).
  * [Battle of the Optimizers](https://github.com/mlpack/ensmallen/issues/294).
+ * [Added util to print gif](https://github.com/mlpack/examples/pull/164).
+ * [Release version 2.17.0: "25 Din Mein Paisa Double"](https://github.com/mlpack/ensmallen/pull/308).
+ * [Rocket injector design optimization](https://github.com/mlpack/examples/pull/165).
+
 
  ## A note of thanks
 
