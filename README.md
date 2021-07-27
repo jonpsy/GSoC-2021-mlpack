@@ -43,6 +43,8 @@ Building upon this foundation, the proposal aims to add cutting edge MOO optimiz
  * [Add Portfolio Optimization notebook](https://github.com/mlpack/examples/pull/155).
  * [Expand callbacks for MOO Case](https://github.com/mlpack/ensmallen/pull/289).
 
+### Phase -I
+
 ### III. Week 1 and 2
 
  * [Implement MOEA/D-DE](https://github.com/mlpack/ensmallen/pull/269).
@@ -56,6 +58,12 @@ Building upon this foundation, the proposal aims to add cutting edge MOO optimiz
  * [Battle of the Optimizers](https://github.com/mlpack/ensmallen/issues/294).
  * [Added util to print gif](https://github.com/mlpack/examples/pull/164).
  * [Rocket injector design optimization](https://github.com/mlpack/examples/pull/165).
+
+### Phase -II 
+
+### IV. Week 5 and 6
+  * [Add Unity simulator and interactive graph for Rocket Injector notebook.](https://github.com/mlpack/examples/pull/171).
+
 
 
  ## A note of thanks
