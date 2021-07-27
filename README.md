@@ -17,6 +17,8 @@ Honoring the rites of mlpack, I will post my progress, results, visualizations o
 
 <a href="https://github.com/mlpack/ensmallen/issues/294"><img style="padding: 5px;" alt="drawing" src="pics/speed.png" height="500"></a>
 
+<a href="https://github.com/mlpack/examples/pull/165"><img style="padding: 5px;" alt="drawing" src="pics/RocketFront.gif" height="500", width="800"></a>
+
 
 ## Motivation
 
