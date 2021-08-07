@@ -6,14 +6,18 @@
 My proposal for **A Framework for Multiobjective optimizers** was selected under **Google Summer of Code 2021**. I'll work with the [mlpack](https://mlpack.org/) organization under the mentorship of **Marcus Edel** ([@zoq](https://github.com/zoq)), **Sayan Goswami** ([@say4n](https://github.com/say4n)), **James Balamuta** ([@coatless](https://github.com/coatless)).
 
 Honoring the rites of mlpack, I will post my progress, results, visualizations over the course of my contribution.
-<figure>
-  <img src="https://docs.google.com/uc?export=download&id=1OHRslfH6qnT-Sqi5-PWFtEeihef-CeGH" width="400" height="400">
-  <figcaption align="centre">Fig. 1: - The truncate operator of SPEA-II </figcaption>
-</figure>
+
+<img src="https://docs.google.com/uc?export=download&id=1OHRslfH6qnT-Sqi5-PWFtEeihef-CeGH" width="400" height="400">
 
 <a href="https://github.com/mlpack/ensmallen/pull/293"><img style="padding: 5px;" alt="drawing" src="pics/PBI.jpeg" height="600"></a>
 
-<a href="https://github.com/mlpack/ensmallen/pull/295"><img style="padding: 5px;" alt="drawing" src="pics/das-dennis.png" height="300"></a>
+<a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/moead-front.jpg" height="500"></a>
+
+<a href="https://github.com/mlpack/examples/pull/160"><img style="padding: 5px;" alt="drawing" src="pics/fronts.gif" height="500"></a>
+
+<a href="https://github.com/mlpack/ensmallen/issues/294"><img style="padding: 5px;" alt="drawing" src="pics/speed.png" height="500"></a>
+
+<a href="https://github.com/mlpack/examples/pull/165"><img style="padding: 5px;" alt="drawing" src="pics/RocketFront.gif" height="500" width="800"></a>
 
 
 ## Motivation
@@ -39,12 +43,27 @@ Building upon this foundation, the proposal aims to add cutting edge MOO optimiz
  * [Add Portfolio Optimization notebook](https://github.com/mlpack/examples/pull/155).
  * [Expand callbacks for MOO Case](https://github.com/mlpack/ensmallen/pull/289).
 
+### Phase -I
+
 ### III. Week 1 and 2
 
  * [Implement MOEA/D-DE](https://github.com/mlpack/ensmallen/pull/269).
  * [Introduce Policy Methods for MOEA/D-DE](https://github.com/mlpack/ensmallen/pull/293).
  * [Add Das-Dennis weight initialization method](https://github.com/mlpack/ensmallen/pull/295).
  * [Add Dirichlet Weight Initialization](https://github.com/mlpack/ensmallen/pull/296).
+
+### III. Week 3 and 4
+ * [**Release version 2.17.0: "25 Din Mein Paisa Double"**](https://github.com/mlpack/ensmallen/pull/308). 
+ * [Refine Portfolio Notebook.](https://github.com/mlpack/examples/pull/160).
+ * [Battle of the Optimizers](https://github.com/mlpack/ensmallen/issues/294).
+ * [Added util to print gif](https://github.com/mlpack/examples/pull/164).
+ * [Rocket injector design optimization](https://github.com/mlpack/examples/pull/165).
+
+### Phase -II 
+
+### IV. Week 5 and 6
+  * [Add Unity simulator and interactive graph for Rocket Injector notebook.](https://github.com/mlpack/examples/pull/171).
+
 
 
  ## A note of thanks
