@@ -68,7 +68,6 @@ Building upon this foundation, the proposal aims to add cutting edge MOO optimiz
   * [Implement Envelope Q-Learning Algorithm](https://github.com/mlpack/mlpack/pull/3029). 
 
  ## A note of thanks
-
  I would like to thank these people without whom, this project wouldn't have been possible. Shaikh Mohammad Fauz  ([@FieryBlade-313](https://github.com/FieryBlade-313)) for the gif and Sagar Sehgal ([@Sagar](https://github.com/thesagarsehgal)) for the guidance. 
  
  I'm really grateful to my mentors who graciously spent their time clearing my doubts and arranging meetups. Their in-depth knowledge of the relevant field and expertise in coding catapulted the progress of this project. I'd like to apply as a member of this organisation so that I can give back to this community.  
